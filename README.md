@@ -50,7 +50,7 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmannnana&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmannnana&layout=compact&theme=light&hide_border=true" />
 </p>
 
 ---
@@ -61,8 +61,8 @@
 |------|------------|
 | **AlloPharma** | Mobile app to locate pharmacies |
 | **BackendAPI** | REST API with NestJS |
-| **AnalysWare** | Business analytics tools |
-| **Portfolio** | Personal website |
+| **GazRapide** | A simple revolution mobile app for home gas provision |
+| **Faso Raaga** | An online marketplace for local businesses |
 
 ---
 
@@ -73,14 +73,15 @@
 > — **John Carmack**
 
 ---
-
+<!--
 ## ☕ Support Me
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://buymeacoffee.com/tonlien">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee"/>
   </a>
-</p>-->
+</p>
+-->
 
 ---
 

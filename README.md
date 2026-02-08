@@ -76,11 +76,11 @@
 
 ## ☕ Support Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://buymeacoffee.com/tonlien">
     <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee"/>
   </a>
-</p>
+</p>-->
 
 ---
 

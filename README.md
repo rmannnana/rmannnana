@@ -32,7 +32,7 @@
 ## 🛠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,nestjs,docker,linux,git,postgres,firebase,aws,excel,figma,photoshop,xd" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,django,nestjs,docker,linux,git,postgres,firebase,aws,figma,photoshop,xd" />
 </p>
 
 ---

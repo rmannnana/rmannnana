@@ -22,7 +22,7 @@
 ## 🌍 Connect with me
 
 <p align="center">
-  <a href="www.linkedin.com/in/rmannna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/></a>
+  <a href="https://www.linkedin.com/in/rmannna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/></a>
   <a href="mailto:borishermannana@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff9595?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.facebook.com/rman.nna.1"><img src="https://img.shields.io/badge/facebook-080899?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/></a>
 </p>

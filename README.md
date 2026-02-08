@@ -40,7 +40,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmannnana&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?user=rmannnana&show_icons=true&theme=tokyonight&hide_border=true" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmannnana&theme=tokyonight&hide_border=true" />
 </p>
@@ -50,7 +50,7 @@
 ## 🧩 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmannnana&layout=compact&theme=light&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=rmannnana&layout=compact&theme=light&hide_border=true" />
 </p>
 
 ---

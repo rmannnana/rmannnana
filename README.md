@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://pin.it/74DcA8PxH" width="100%" />
+  <img src="https://www.freepik.com/premium-photo/infinite-possibilities-unlocking-faas-infinity-every-step_411005718.htm#fromView=keyword&page=1&position=35&uuid=cf79c58e-c35e-46b5-ad85-5bc149ef8abd&query=Devops+banner" width="100%" />
 </p>
 
 <h1 align="center">🔥 B. Hermann NANA</h1>

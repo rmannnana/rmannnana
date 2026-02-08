@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-- 🚀 I started my journey with **Web & Software Development**
+- 🚀 I started my journey with **Design, Web & Mobile App Development**
 - 🔍 Currently focused on **Data, Cloud & Automation**
 - 🎓 Background: Computer Science & Engineering
 - 💬 Ask me about: `Flutter`, `NestJS`, `DevOps`, `Python`, `Data`

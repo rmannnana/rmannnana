@@ -3,7 +3,7 @@
   <img src="devops-banner.avif" width="100%" />
 </p>
 
-<h1 align="center">🔥 B. Hermann NANA</h1>
+<h1 align="center">🔥 DevOps engineering</h1>
 <h3 align="center">Hi here 🙏 I'm B. Hermann NANA</h3>
 <p align="center"><i>Software Engineer • Data Analyst • Tech Explorer</i></p>
 

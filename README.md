@@ -5,7 +5,7 @@
 
 <h1 align="center">🔥 DevOps engineering</h1>
 <h3 align="center">Hi here 🙏 I'm B. Hermann NANA</h3>
-<p align="center"><i>Software Engineer • Data Analyst • Tech Explorer</i></p>
+<p align="center"><i>Frontend/Bckend • DevOps • Data Analyst • Tech Explorer</i></p>
 
 ---
 

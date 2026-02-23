@@ -68,8 +68,8 @@
 
 ## 💡 Random Dev Quote
 
-> *“Le succès d'un projet ne se trouve pas dans sa mise en production, il réside dans plaisir qu'on prend à relevé chaque défis qui se pose durant son développement.”*  
-> — **__**
+> *“The success of a project is not found in its production, it lies in the pleasure taken in overcoming each challenge that arises during development.”*  
+> — **__by me**
 
 ---
 <!--

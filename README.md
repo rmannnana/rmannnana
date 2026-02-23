@@ -68,9 +68,8 @@
 
 ## 💡 Random Dev Quote
 
-> *“Sometimes the elegant implementation is just a function.  
-> Not a method. Not a class. Just a function.”*  
-> — **John Carmack**
+> *“Le succès d'un projet ne se trouve pas dans sa mise en production, il réside dans plaisir qu'on prend à relevé chaque défis qui se pose durant son développement.”*  
+> — **__**
 
 ---
 <!--

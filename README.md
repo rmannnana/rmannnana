@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="200">
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="300">
 
 <h1 align="center">🔥 Full Stack dev</h1>
 <h3 align="center">Hi here 🙏 I'm B. Hermann NANA</h3>
@@ -29,10 +29,35 @@
 
 ## 🛠 Languages & Tools
 
+# 🛠 Web & Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,nodejs,django,nestjs,docker,linux,git,postgres,firebase,aws,figma,photoshop,xd" />
+  <h3>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,django" />
 </p>
 
+# 🛠 Cloud & DevOps
+<p align="center">
+  <h3>
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp" />
+</p>
+
+# 🛠 Server side, Database & Persistance
+<p align="center">
+  <h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase" />
+</p>
+
+# 🛠 Versionning
+<p align="center">
+  <h3>
+  <img src="https://skillicons.dev/icons?i=git, github" />
+</p>
+
+# 🛠 UI/UX
+<p align="center">
+  <h3>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />
+</p>
 ---
 
 ## 📊 GitHub Stats

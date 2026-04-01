@@ -67,6 +67,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmannnana&theme=tokyonight&hide_border=true" />
 </p>
 
+  <div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmannnana&theme=tokyonight" alt="Repos Per Language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmannnana&theme=tokyonight" alt="Most Commit Language" />
+  </div>
 ---
 <!--
 ## 🧩 Most Used Languages

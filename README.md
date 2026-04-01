@@ -13,7 +13,6 @@
 - 🔍 Currently focused on **Data, Cloud & Automation**
 - 🎓 Background: Computer Science & Engineering
 - 💬 Ask me about: `Flutter`, `NestJS`, `DevOps`, `Python`, `Data`
-- ⚡ Fun fact: I only like clean architectures.
 
 ---
 
@@ -21,6 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rmannna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/></a>
+  <a href=""><img src="https://img.shields.io/badge/WhatsApp-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=00FF00"/></a>
   <a href="mailto:borishermannana@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff9595?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.facebook.com/rman.nna.1"><img src="https://img.shields.io/badge/facebook-080899?style=for-the-badge&logo=facebook&logoColor=FFFFFF"/></a>
 </p>

@@ -69,7 +69,6 @@
 
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmannnana&theme=tokyonight" alt="Repos Per Language" />
-  <hr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmannnana&theme=tokyonight" alt="Most Commit Language" />
 </p>
 ---

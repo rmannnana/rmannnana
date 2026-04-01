@@ -80,16 +80,6 @@
 </p>
 -->
 ---
-
-## 🏆 Top Repositories
-
-| Repo | Description |
-|------|------------|
-| **AlloPharma** | Mobile app to locate pharmacies |
-| **BackendAPI** | REST API with NestJS |
-| **GazRapide** | A simple revolution mobile app for home gas provision |
-| **Faso Raaga** | An online marketplace for local businesses |
-
 ---
 
 ## 💡 Random Dev Quote

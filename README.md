@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <!-- <img src="https://github-readme-stats.vercel.app/api?user=rmannnana&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmannnana&theme=tokyonight&hide_border=true" />

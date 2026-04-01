@@ -94,21 +94,10 @@
 
 ## 💡 Random Dev Quote
 
-> *“The success of a project is not found in its production, it lies in the pleasure taken in overcoming each challenge that arises during development.”*  
-> — **__by me**
+> *“Sometime the issue is somewhere between the chair and the screen.😁”*  
+> — **...seen somewhere...**
 
----
-<!--
-## ☕ Support Me
-
- <p align="center">
-  <a href="https://buymeacoffee.com/tonlien">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee"/>
-  </a>
-</p>
--->
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="max-width">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />

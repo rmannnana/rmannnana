@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rmannna"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=F5F5F5"/></a>
-  <a href="https://wa.me/22654288212"><img src="https://img.shields.io/badge/WhatsApp-99FF99?style=for-the-badge&logo=whatsapp&logoColor=00FF00"/></a>
+  <a href="https://wa.me/22654288212"><img src="https://img.shields.io/badge/WhatsApp-99FF99?style=for-the-badge&logo=whatsapp&logoColor=005500"/></a>
   <a href="mailto:borishermannana@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff9595?style=for-the-badge&logo=gmail"/></a>
 </p>
 

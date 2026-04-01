@@ -29,31 +29,31 @@
 
 ## 🛠 Languages & Tools
 
-# 🛠 Web & Mobile Development
+### 🛠 Web & Mobile Development
 <p align="center">
   <h3>
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,django" />
 </p>
 
-# 🛠 Cloud & DevOps
+### 🛠 Cloud & DevOps
 <p align="center">
   <h3>
   <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp" />
 </p>
 
-# 🛠 Server side, Database & Persistance
+### 🛠 Server side, Database & Persistance
 <p align="center">
   <h3>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase" />
 </p>
 
-# 🛠 Versionning
+### 🛠 Versionning
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=git, github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-# 🛠 UI/UX
+### 🛠 UI/UX
 <p align="center">
   <h3>
   <img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />

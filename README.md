@@ -55,7 +55,7 @@
 ### 🎨 UI/UX
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,xd" />
+  <img src="https://skillicons.dev/icons?i=xd" />
 </p>
 ---
 

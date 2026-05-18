@@ -31,7 +31,7 @@
 ### 🖥 Web & Mobile Development
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,django" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,typescript,react" />
 </p>
 
 ### ☁ Cloud & DevOps

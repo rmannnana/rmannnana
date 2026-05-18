@@ -37,13 +37,13 @@
 ### ☁ Cloud & DevOps
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,nginx" />
 </p>
 
 ### 🧮 Server side, Database & Persistance
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase,cloudinary" />
 </p>
 
 ### ♻ Versionning

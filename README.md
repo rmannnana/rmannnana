@@ -51,7 +51,7 @@
 ### 🧮 Server side, Database & Persistance
 <p align="center">
   <h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,firebase,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,postgres,firebase,cloudinary" />
 </p>
 
 ### ♻ Versionning
